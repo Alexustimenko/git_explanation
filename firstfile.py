@@ -1,2 +1,2 @@
 print('hi, i am git!')
-print("privet")
+print("privet second")
